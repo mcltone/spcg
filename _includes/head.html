@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  {% if page.layout == 'home' %}
+  {% if page.layout == 'default' %}
     <title>{{ site.title }}</title>
   {% else %}
     <title>{{ page.title }} - {{ site.title }}</title>
@@ -14,6 +14,7 @@
   <!-- CSS -->
   <!-- Bootstrap is included in main.css -->
   <link rel="stylesheet" href="{{ '/assets/theme/css/main.css' | relative_url }}">
+  <link rel="shortcut icon" href="/assets/theme/favicon/favicon.ico">
   <link rel="stylesheet" href="{{ '/assets/theme/css/fontawesome-all.min.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/theme/css/academicons.min.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/theme/css/pygments.css' | relative_url }}">

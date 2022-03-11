@@ -1,17 +1,7 @@
 ---
-layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+title: Statistical physics of cells and genomes
+background: /assets/theme/images/blackboard_tmp2.jpg
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
-
-## Installation
-
-See the demo website for instructions:
-
-- [Installation](https://peterdesmet.github.io/petridish/installation/)
-- [Configuration](https://peterdesmet.github.io/petridish/configuration/)
-- [Markdown](https://peterdesmet.github.io/petridish/markdown/)
+Welcome to the Statistical Physics of Cells and Genomes Lab! Research in our group focuses on the development of data-driven theoretical models to describe a broad range of biological phenomena. Some of our current principal research threads include questions on the physiology of cell growth and division across organisms, how chromosome organize spatially inside the bacterial cell, the evolution of chromosomes including the emergence of aneuploidy, quantification of different mutation processes and phenotypics switches in mammalian cells.
