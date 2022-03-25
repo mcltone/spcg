@@ -1,8 +1,6 @@
 ---
 layout: team
 title: People
-description: Who we are
+background: /assets/theme/images/main_lavagna.jpg
 permalink: /people/
 ---
-
-On this page you can list team members by defining them in [`_data/team.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/team.yml).

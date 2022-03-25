@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Research
-description: What we do
+background: /assets/theme/images/main_lavagna.jpg
 permalink: /research/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Statistical physics of cells and genomes
-background: /assets/theme/images/blackboard_tmp2.jpg
+background: /assets/theme/images/main_lavagna.jpg
 permalink: /
 ---
 

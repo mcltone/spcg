@@ -10,14 +10,15 @@
           
           <div class="lead">{{ page.description | markdownify }}</div>
           
-          {% if page.date %}
-            <p class="meta">
-              <time>{{ page.date | date: "%B %d, %Y" }}</time>
-              {% if page.author or page.authors %}
-                &bull; {{ page.author | join: ', ' }}{{ page.authors | join: ', ' }}
-              {% endif %}
-            </p>
-          {% endif %}
+          <!-- this is for inserting date and authors in the header, I remove it -->
+          <!-- {% if page.date %} -->
+          <!--   <p class="meta"> -->
+          <!--     <time>{{ page.date | date: "%B %d, %Y" }}</time> -->
+          <!--     {% if page.author or page.authors %} -->
+          <!--       &bull; {{ page.author | join: ', ' }}{{ page.authors | join: ', ' }} -->
+          <!--     {% endif %} -->
+          <!--   </p> -->
+          <!-- {% endif %} -->
 
           <div class="categories">
             {% if page.categories and site.archive_permalink %}
