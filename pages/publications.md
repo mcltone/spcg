@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-background: /assets/theme/images/main_lavagna.jpg
+background: /assets/theme/images/GodPlaysDice.jpg
 permalink: /publications/
 ---
 
