@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <br>Research
+title: <br><br>Research
 background: /assets/theme/images/LavagnaBack1.jpg
 permalink: /research/
 ---
