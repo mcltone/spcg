@@ -1,5 +1,5 @@
 ---
-title: Statistical physics <br> of cells and genomes
+title: <br>Statistical physics <br> of cells and genomes
 background: /assets/theme/images/Lavagna3.jpg
 permalink: /
 ---
