@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jobs
-background: /assets/theme/images/main_lavagna.jpg
+background: /assets/theme/images/LavagnaBack2.jpg
 permalink: /jobs/
 ---
 
