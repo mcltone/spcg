@@ -4,10 +4,10 @@
   href: /
 - text: Research
   href: /research/
-- text: Publications
-  href: /publications/  
 - text: People
   href: /people/
+#- text: Publications
+#  href: /publications/  
 - text: Jobs
   href: /jobs/  
 # - text: Documentation
