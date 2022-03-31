@@ -5,6 +5,4 @@ background: /assets/theme/images/LavagnaBack2.jpg
 permalink: /jobs/
 ---
 
-We do not have any specific openings at the moment.
-
-Regardless, prospective postdocs and students interested in doing a PhD, Master's, or Bachelor's thesis project in my group are always welcome to get in touch with me at [marco.cosentino-lagomarsino@ifom.eu](mailto:marco.cosentino-lagomarsino@ifom.eu).
+We always welcome spontaneous applications from prospective postdocs and students interested in a PhD, Master's, or Bachelor's thesis project, so get in touch with us if you are interested. Specific openings will be posted below. 
