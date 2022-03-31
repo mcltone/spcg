@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jobs
+title: <br>Jobs
 background: /assets/theme/images/LavagnaBack2.jpg
 permalink: /jobs/
 ---
