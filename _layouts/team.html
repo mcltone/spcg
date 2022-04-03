@@ -30,18 +30,18 @@ description: Template for team page
         <!-- Download CV -->
         {% if member.cv %}
           <li class="list-inline-item">
-            <a target="_blank" href="https://mcltone.github.io/spcg/CV/{{ member.cv }}"><i class="fa fa-file-pdf-o"></i></a>
+            <a target="_blank" href="https://github.com/mcltone/spcg/tree/master/CV/{{ member.cv }}"><i class="fa fa-file-pdf-o"></i></a>
           </li>
         {% endif %}
 
-        <!-- Orcid -->
-        {% if member.orcid %}
+        <!-- Linkedin -->
+        {% if member.in %}
           <li class="list-inline-item">
-            <a href="https://orcid.org/{{ member.orcid }}"><i class="ai ai-orcid"></i></a>
+            <a target="_blank" href="http://www.linkedin.com/in/{{ member.in }}" class="waves-effect waves-teal btn-flat my-linkedin-link" data-tooltip="linkedin"><i class="fa fa-linkedin"></i></a>
           </li>
         {% endif %}
 
-        <!-- Research gate -->
+        <!-- Research Gate -->
         {% if member.researchgate %}
           <li class="list-inline-item">
             <a href="https://researchgate.net/profile/{{ member.researchgate }}"><i class="ai ai-researchgate"></i></a>
@@ -58,19 +58,22 @@ description: Template for team page
         class="fa fa-linkedin"></i></a> -  <br />
        </p>
        --->
-
+       
+        <!-- Twitter -->
         {% if member.twitter %}
           <li class="list-inline-item">
             <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter"></i></a>
           </li>
         {% endif %}
 
+        <!-- GitHub-->
         {% if member.github %}
           <li class="list-inline-item">
             <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i></a>
           </li>
         {% endif %}
 
+        <!-- Email -->
         {% if member.email %}
           <li class="list-inline-item">
             <a href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a>
