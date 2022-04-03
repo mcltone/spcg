@@ -15,7 +15,7 @@
 - name: Simone Pompei
   role: Post Doc
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg 
-  cv: CV/mcCV.pdf
+  cv: mcCV.pdf
   description: >
     Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
     aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
@@ -33,41 +33,42 @@
 - name: Ilaria Iuliani
   role: Post Doc
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg
-  cv: CV/mcCV.pdf 
+  cv: mcCV.pdf 
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
 
 - name: Ludovico Calabrese
   role: PhD
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg 
-  cv: CV/mcCV.pdf
+  cv: mcCV.pdf
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).    
 
 - name: Rossana Droghetti
   role: PhD
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg 
-  cv: CV/mcCV.pdf
+  cv: mcCV.pdf
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).    
 
 - name: Mattia Corigliano
   role: PhD
   image: assets/theme/images/mc.jpg 
-  cv: CV/mcCV.pdf
+  cv: mcCV.pdf
+  orcid: 0000-0002-6645-6778
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).    
+    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).            
 
 - name: Giorgio Tallarico
   role: Master's student
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg 
-  cv: CV/mcCV.pdf
+  cv: mcCV.pdf
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).            
 
 - name: Quentin Chaboche
   role: Master's student
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg 
-  cv: CV/mcCV.pdf
+  cv: mcCV.pdf
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).       
