@@ -48,6 +48,13 @@ description: Template for team page
           </li>
         {% endif %}
 
+        <!-- Google Scholar -->
+        {% if member.scholar %}
+        <li class="list-inline-item">
+          <a href="https://scholar.google.com/citations?user={{ member.scholar }}" class="waves-effect waves-teal btn-flat my-google-scholar-link" data-tooltip="google scholar"><i class="ai ai-google-scholar"></i></a>
+        </li>
+        {% endif %}
+
         <!-- FROM JACOPO'S WEBSITE 
         <p>
         <a target="_blank" href="https://jacopogrilli.github.io/images/teamcv/sgolmohammadi_cv.pdf">
