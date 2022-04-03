@@ -8,27 +8,40 @@ description: Template for team page
 {% for member in site.data.team %}
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
+      <!-- IMAGE -->
       {% if member.image %}
         <img src="{{ member.image | relative_url }}">
       {% endif %}
     </div>
     <div>
+      <!-- Name & Role -->
       <h5 id="{{ member.name | strip | url_encode }}">
         {{ member.name }}
         {% if member.role %}
           <small class="text-muted">| {{ member.role }}</small>
         {% endif %}
       </h5>
-
+      <!-- Description -->
       {{ member.description | markdownify }}
-
+      
+      <!-- Buttons -->
       <ul class="list-inline">
+
+        <!-- Download CV -->
+        {% if member.cv %}
+          <li class="list-inline-item">
+            <a target="_blank" href="https://mcltone.github.io/spcg/CV/{{ member.cv }}"><i class="fa fa-file-pdf-o"></i></a>
+          </li>
+        {% endif %}
+
+        <!-- Orcid -->
         {% if member.orcid %}
           <li class="list-inline-item">
             <a href="https://orcid.org/{{ member.orcid }}"><i class="ai ai-orcid"></i></a>
           </li>
         {% endif %}
 
+        <!-- Research gate -->
         {% if member.researchgate %}
           <li class="list-inline-item">
             <a href="https://researchgate.net/profile/{{ member.researchgate }}"><i class="ai ai-researchgate"></i></a>
