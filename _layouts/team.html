@@ -37,7 +37,7 @@ description: Template for team page
         <!-- Linkedin -->
         {% if member.in %}
           <li class="list-inline-item">
-            <a target="_blank" href="https://it.linkedin.com/in/{{ member.in }}"><i class="fab fa-linkedin"></i></a>
+            <a target="_blank" href="{{ member.in }}"><i class="fab fa-linkedin"></i></a>
           </li>
         {% endif %}
 
@@ -51,7 +51,7 @@ description: Template for team page
         <!-- Google Scholar -->
         {% if member.scholar %}
           <li class="list-inline-item">
-            <a target="_blank" href="https://scholar.google.com/citations?user={{ member.scholar }}" class="waves-effect waves-teal btn-flat my-google-scholar-link" data-tooltip="google scholar"><i class="ai ai-google-scholar"></i></a>
+            <a target="_blank" href="https://scholar.google.com/citations?{{ member.scholar }}" class="waves-effect waves-teal btn-flat my-google-scholar-link" data-tooltip="google scholar"><i class="ai ai-google-scholar"></i></a>
           </li>
         {% endif %}
 
@@ -79,7 +79,7 @@ description: Template for team page
         <!-- Download CV -->
         {% if member.cv %}
           <li class="list-inline-item">
-            <a target="_blank" href="https://mcltone.github.io/spcg/CV/{{ member.cv }}"><i class="fa fa-file-pdf-o"></i></a>
+            <a target="_blank" href="https://mcltone.github.io/CV/{{ member.cv }}"><i class="fa fa-file-pdf-o"></i></a>
           </li>
         {% endif %}
 
