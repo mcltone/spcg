@@ -5,22 +5,19 @@
   image: assets/theme/images/mcl.jpg # Can be external link
   description: > # Can be Markdown
     Theoretical Physicist. Master's U. Milan, PhD AMOLF and U. Leiden
-  orcid: 0000-0003-0235-0445
   cv: mclCV.pdf
-  in: https://fr.linkedin.com/in/marco-cosentino-lagomarsino-0b83252
-  #researchgate: researchgate_name
+  email: marco.cosentino-lagomarsino@ifom.eu
   scholar: user=jJ0S7vUAAAAJ&hl=en
+  #researchgate: researchgate_name
+  orcid: 0000-0003-0235-0445
+  in: https://fr.linkedin.com/in/marco-cosentino-lagomarsino-0b83252
   #twitter: twitter_name
   github: mcltone
-  email: marco.cosentino-lagomarsino@ifom.eu
+  
 
 - name: Simone Pompei
   role: Post Doc
   image: assets/theme/images/sp.jpg 
-  #cv: spCV.pdf
-  orcid: 0000-0002-6673-7991
-  in: https://it.linkedin.com/in/simone-pompei-9a315435
-  researchgate: Simone-Pompei
   description: >
     Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
     aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
@@ -34,61 +31,101 @@
     aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
     Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
     aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+  #cv: spCV.pdf
+  email: simone.pompei@ifom.eu
+  #scholar: 
+  researchgate: Simone-Pompei
+  orcid: 0000-0002-6673-7991
+  in: https://it.linkedin.com/in/simone-pompei-9a315435
+  #twitter
+  github: spio85
 
 - name: Ilaria Iuliani
   role: Post Doc
   image: assets/theme/images/ii.jpg
-  #cv: iiCV.pdf 
-  in: https://fr.linkedin.com/in/ilaria-iuliani-4b49bba0
-  orcid: 0000-0003-1758-0497
-  twitter: IlariaIuliani
-  researchgate: Ilaria-Iuliani
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
-
+  #cv: iiCV.pdf 
+  email: ilaria.iuliani@ifom.eu
+  #scholar: 
+  researchgate: Ilaria-Iuliani
+  orcid: 0000-0003-1758-0497
+  in: https://fr.linkedin.com/in/ilaria-iuliani-4b49bba0
+  twitter: IlariaIuliani
+  github: ilaria-iuliani
+  
+  
 - name: Ludovico Calabrese
   role: PhD
   image: assets/theme/images/lc.jpg
-  orcid: 0000-0002-1305-4441 
-  #cv: lcCV.pdf
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).    
-
+  #cv: lcCV.pdf
+  email: ludovico.calabrese@ifom.eu
+  #scholar: 
+  #researchgate:
+  orcid: 0000-0002-1305-4441
+  #in:
+  #twitter: 
+  github: ludjwick
+  
+  
 - name: Rossana Droghetti
   role: PhD
   image: assets/theme/images/rd.jpg 
-  orcid: 0000-0002-4596-7288
-  #cv: rdCV.pdf
-  scholar: hl=it&user=Iy4HcUMAAAAJ
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).    
-
+  #cv: rdCV.pdf
+  email: rossana.droghetti@ifom.eu
+  scholar: hl=it&user=Iy4HcUMAAAAJ
+  #researchgate:
+  orcid: 0000-0002-4596-7288
+  #in:
+  #twitter:
+  #github:
+  
+  
 - name: Mattia Corigliano
   role: PhD
   image: assets/theme/images/mc.jpg 
-  cv: mcCV.pdf
-  in: https://it.linkedin.com/in/mattia-corigliano-b05407203
-  orcid: 0000-0002-6645-6778
-  email: mattia.corigliano@ifom.eu
-  twitter: mcorigliano_
-  github: Mattia-Corigliano
-  researchgate: Mattia-Corigliano
-  scholar: user=HhvKKzQAAAAJ&hl=it
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).            
-
+  cv: mcCV.pdf
+  email: mattia.corigliano@ifom.eu
+  scholar: user=HhvKKzQAAAAJ&hl=it
+  researchgate: Mattia-Corigliano
+  orcid: 0000-0002-6645-6778
+  in: https://it.linkedin.com/in/mattia-corigliano-b05407203  
+  twitter: mcorigliano_
+  github: Mattia-Corigliano
+  
+   
 - name: Giorgio Tallarico
   role: Master's student
   image: assets/theme/images/gt.jpg 
-  #cv: gtCV.pdf
-  orcid: 0000-0002-3925-9699
-  in: https://it.linkedin.com/in/giorgio-tallarico-159614b2
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).            
-
+  #cv: gtCV.pdf
+  email: giorgio.tallarico@ifom.eu
+  #scholar:
+  #researchgate:
+  orcid: 0000-0002-3925-9699
+  in: https://it.linkedin.com/in/giorgio-tallarico-159614b2
+  #twitter:
+  github: giorgiotallarico
+  
 - name: Quentin Chaboche
   role: Master's student
   image: assets/theme/images/qc.jpg 
-  #cv: qcCV.pdf
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).       
+  #cv: qcCV.pdf
+  email: quentin.chaboche@ifom.eu
+  #scholar:
+  #researchgate:
+  #orcid:
+  #in:
+  #twitter:
+  #github:
+  
+  

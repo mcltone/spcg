@@ -26,63 +26,54 @@ description: Template for team page
       
       <!-- Buttons -->
       <ul class="list-inline">
-
-        <!-- Orcid -->
-        {% if member.orcid %}
-          <li class="list-inline-item">
-            <a target="_blank" href="http://orcid.org/{{ member.orcid }}" class="waves-effect waves-teal btn-flat my-orcid-link" data-tooltip="orcid"><i class="ai ai-orcid"></i></a>
-          </li>
-        {% endif %}
-
-        <!-- Linkedin -->
-        {% if member.in %}
-          <li class="list-inline-item">
-            <a target="_blank" href="{{ member.in }}"><i class="fab fa-linkedin"></i></a>
-          </li>
-        {% endif %}
-
-        <!-- Research Gate -->
-        {% if member.researchgate %}
-          <li class="list-inline-item">
-            <a target="_blank" href="https://researchgate.net/profile/{{ member.researchgate }}"><i class="ai ai-researchgate"></i></a>
-          </li>
-        {% endif %}
-
-        <!-- Google Scholar -->
-        {% if member.scholar %}
-          <li class="list-inline-item">
-            <a target="_blank" href="https://scholar.google.com/citations?{{ member.scholar }}" class="waves-effect waves-teal btn-flat my-google-scholar-link" data-tooltip="google scholar"><i class="ai ai-google-scholar"></i></a>
-          </li>
-        {% endif %}
-
-        <!-- Twitter -->
-        {% if member.twitter %}
-          <li class="list-inline-item">
-            <a target="_blank" href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter"></i></a>
-          </li>
-        {% endif %}
-
-        <!-- GitHub-->
-        {% if member.github %}
-          <li class="list-inline-item">
-            <a target="_blank" href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i></a>
-          </li>
-        {% endif %}
-
-        <!-- Email -->
-        {% if member.email %}
-          <li class="list-inline-item">
-            <a target="_blank" href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a>
-          </li>
-        {% endif %}
-
         <!-- Download CV -->
         {% if member.cv %}
           <li class="list-inline-item">
             <a target="_blank" href="https://mcltone.github.io/spcg/CV/{{ member.cv }}"><i class="fab fa-file-pdf-o"></i>Download CV</a>
           </li>
         {% endif %}
-
+        <!-- Email -->
+        {% if member.email %}
+          <li class="list-inline-item">
+            <a target="_blank" href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a>
+          </li>
+        {% endif %}
+        <!-- Google Scholar -->
+        {% if member.scholar %}
+          <li class="list-inline-item">
+            <a target="_blank" href="https://scholar.google.com/citations?{{ member.scholar }}" class="waves-effect waves-teal btn-flat my-google-scholar-link" data-tooltip="google scholar"><i class="ai ai-google-scholar"></i></a>
+          </li>
+        {% endif %}
+        <!-- Research Gate -->
+        {% if member.researchgate %}
+          <li class="list-inline-item">
+            <a target="_blank" href="https://researchgate.net/profile/{{ member.researchgate }}"><i class="ai ai-researchgate"></i></a>
+          </li>
+        {% endif %}
+        <!-- Orcid -->
+        {% if member.orcid %}
+          <li class="list-inline-item">
+            <a target="_blank" href="http://orcid.org/{{ member.orcid }}" class="waves-effect waves-teal btn-flat my-orcid-link" data-tooltip="orcid"><i class="ai ai-orcid"></i></a>
+          </li>
+        {% endif %}
+        <!-- Linkedin -->
+        {% if member.in %}
+          <li class="list-inline-item">
+            <a target="_blank" href="{{ member.in }}"><i class="fab fa-linkedin"></i></a>
+          </li>
+        {% endif %}
+        <!-- Twitter -->
+        {% if member.twitter %}
+          <li class="list-inline-item">
+            <a target="_blank" href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter"></i></a>
+          </li>
+        {% endif %}
+        <!-- GitHub-->
+        {% if member.github %}
+          <li class="list-inline-item">
+            <a target="_blank" href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i></a>
+          </li>
+        {% endif %}
       </ul>
     </div>
   </div>
