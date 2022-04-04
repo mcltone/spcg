@@ -119,12 +119,12 @@
   image: assets/theme/images/qc.jpg 
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).       
-  #cv: qcCV.pdf
+  cv: qcCV.pdf
   email: quentin.chaboche@ifom.eu
   #scholar:
   #researchgate:
   #orcid:
-  #in:
+  in: https://it.linkedin.com/in/quentin-chaboche-6a65ba1a1/it?trk=people-guest_people_search-card
   #twitter:
   #github:
   
