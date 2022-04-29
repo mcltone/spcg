@@ -1,4 +1,5 @@
 <div class="card" data-categories="{% for category in post.categories %}{{ category | downcase | strip }}|{% endfor %}">
+
   <a href="{{ post.url | relative_url }}">
     {% if post.background %}
       <img class="card-img-top" src="{{ post.background | relative_url }}">
@@ -9,11 +10,13 @@
 
   <div class="card-body position-relative">
     <h5 class="card-title">
-      <a class="stretched-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <a class="stretched-link" href="{{ post.url | relative_url }}" style="color: #737373">{{ post.title }}</a>
     </h5>
 
     
+     <!-- BELOW YOU CAN ADD A TEXT IN THE CARD -->
 
+    <!--
     <div class="card-text">
       {% if post.description %}
         {{ post.description | markdownify | truncatewords: 20 }}
@@ -21,6 +24,8 @@
         {{ post.excerpt | truncatewords: 20 }}
       {% endif %}
     </div>
+    -->
+
   </div>
 
   {% if post.categories and site.archive_permalink %}

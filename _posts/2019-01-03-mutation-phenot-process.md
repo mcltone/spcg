@@ -1,8 +1,9 @@
 ---
 title: Quantification of Mutational Processes and Phenotypic Switches
-background: /assets/theme/images/Mutations.png
+background: /images/Mutations.png
 categories: 
 permalink: /research/mutat-phen
+description:
 ---
 
 We aim to qunatify mutational processes and phenotypic transitions in cancer model
