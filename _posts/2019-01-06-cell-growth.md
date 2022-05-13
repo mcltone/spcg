@@ -6,4 +6,5 @@ permalink: /research/cell-growth
 description:
 ---
 
-We are interested in how cells control cell-cycle progression to ensure that key processes are brought to completion. New dynamic single-cell data challenge standard views and raise new questions. Quantitative models are needed to infer the key mechanisms and guide the experiments. In E. coli, with single-cell experiments, extensive data-analysis and modeling study, we have recently reported that a concurrency between processes happening both at the chromosome and the cell level typically limit cell division with comparable odds, which vey with conditions and perturbations. In single cultured mammalian cells, we have shown that both subperiod timing adjustments and growth-rate regulation contribute to cell-cycle progression decisions.
+We work on quantitative models for cell growth, which help us understand how cells proliferate under different enviromental conditions. 
+Our goal is to understand which regulatory circuits govers cells growth and how those circuits react to perturbations such as lack of nutrients or drug treatment. Our approach is both data and model driven: we make use of data provided from our experimental collaborators to build models, and we plan new experiments together to test the model predictions.
