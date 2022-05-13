@@ -1,6 +1,6 @@
 ---
 title: Quantification of Mutational Processes and Phenotypic Switches
-background: /images/Mutations.png
+background: /images/research4_Mutations.png
 categories: 
 permalink: /research/mutat-phen
 description:

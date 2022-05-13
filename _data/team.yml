@@ -2,7 +2,7 @@
 
 - name: Marco Cosentino Lagomarsino
   role: Principal Investigator # Will appear next to name
-  image: /images/mcl.jpg # Can be external link
+  image: /images/people_mcl.jpg # Can be external link
   description: > # Can be Markdown
     Theoretical Physicist. Master's U. Milan, PhD AMOLF and U. Leiden
   cv: mclCV.pdf
@@ -17,7 +17,7 @@
 
 - name: Simone Pompei
   role: Post Doc
-  image: /images/sp.jpg 
+  image: /images/people_sp.jpg 
   description: >
     Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
     aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
@@ -42,7 +42,7 @@
 
 - name: Ilaria Iuliani
   role: Post Doc
-  image: /images/ii.jpg
+  image: /images/people_ii.jpg
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
   #cv: iiCV.pdf 
@@ -57,7 +57,7 @@
   
 - name: Ludovico Calabrese
   role: PhD
-  image: /images/lc.jpg
+  image: /images/people_lc.jpg
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).    
   #cv: lcCV.pdf
@@ -72,7 +72,7 @@
   
 - name: Rossana Droghetti
   role: PhD
-  image: /images/rd.jpg 
+  image: /images/people_rd.jpg 
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).    
   cv: rdCV.pdf
@@ -87,7 +87,7 @@
   
 - name: Mattia Corigliano
   role: PhD
-  image: /images/mc.jpg 
+  image: /images/people_mc.jpg 
   description: >
     Theoretical Physicist, Cell-Cycle guy. I like to address biological questions with tools borrowed from Statistical Physics and Probability Theory. One question is how a cell decide to become two cells. Another question is how this decision is coordinated with cell-growth.      
   cv: mcCV.pdf
@@ -102,7 +102,7 @@
    
 - name: Giorgio Tallarico
   role: Master's student
-  image: /images/gt.jpg 
+  image: /images/people_gt.jpg 
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).            
   cv: gtCV.pdf
@@ -116,7 +116,7 @@
   
 - name: Quentin Chaboche
   role: Master's student
-  image: /images/qc.jpg 
+  image: /images/people_qc.jpg 
   description: >
     Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).       
   cv: qcCV.pdf

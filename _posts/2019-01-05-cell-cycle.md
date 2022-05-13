@@ -1,6 +1,6 @@
 ---
 title: Physiology of Cell Cycle
-background: /images/cellcycle_v2.png
+background: /images/research2_cellcycle_v2.png
 categories: 
 permalink: /research/cell-cycle
 description:

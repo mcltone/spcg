@@ -1,6 +1,6 @@
 ---
 title: Chromosome Organization
-background: /images/chrom.png
+background: /images/research5_chrom.png
 categories: 
 permalink: /research/chrom-org
 description:

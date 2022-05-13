@@ -1,16 +1,16 @@
 # SITE SETTINGS
 title: spcg                        # Title in top navigation bar (navbar) and <head>
 description: Jekyll theme for research project websites # Site description in <head>
-author: Ludovico Calabrese                    # Used for copyright statement in footer
+author: SPCG                  # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: marco.cosentino-lagomarsino@ifom.eu           # Social icon in footer
-twitter_username: mcl          # Social icon in footer
-github_username: mcltone            # Social icon in footer
+email: # marco.cosentino-lagomarsino@ifom.eu           # Social icon in footer
+twitter_username: # mcl          # Social icon in footer
+github_username: # mcltone            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
