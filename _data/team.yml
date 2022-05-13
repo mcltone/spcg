@@ -4,7 +4,7 @@
   role: Principal Investigator # Will appear next to name
   image: /images/mcl.jpg # Can be external link
   description: > # Can be Markdown
-    Theoretical Physicist. Master's U. Milan, PhD AMOLF and U. Leiden
+    Theoretical Physicist and qBio enthusiast. Master's U. Milan, PhD AMOLF and U. Leiden, Postdoc in Institut Curie, CNRS CR then DR @Sorbonne, since 2018 IFOM and U. Milan. I like models that guide the understanding of data and the development of new concepts and theories, such as Luria&Delbruck, Random Walk, and Fermi's liquid drop. I am also a big fan of scaling concepts in just about everything. 
   cv: mclCV.pdf
   email: marco.cosentino-lagomarsino@ifom.eu
   scholar: user=jJ0S7vUAAAAJ&hl=en
@@ -91,7 +91,7 @@
   role: PhD
   image: /images/mc.jpg 
   description: >
-    Theoretical Physicist, Cell-Cycle guy. I like to address biological questions with tools borrowed from Statistical Physics and Probability Theory. One question is how a cell decide to become two cells. Another question is how this decision is coordinated with cell-growth.      
+    Theoretical Physicist, cell-cycle guy. I like to address biological questions with tools borrowed from Statistical Physics and Probability Theory. One big question is how a cell decides to become two cells. Another big question is how this decision is coordinated with cell-growth.      
   cv: mcCV.pdf
   email: mattia.corigliano@ifom.eu
   scholar: user=HhvKKzQAAAAJ&hl=it
