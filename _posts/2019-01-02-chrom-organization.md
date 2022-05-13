@@ -11,6 +11,6 @@ We are interested in the physical aspects of chromosome organization and dynamic
 Working on this topic: Marco Cosentino Lagomarsino, Quentin Chaboche
 
 Key publications:
-(I)
-(II)
-(III)
+(I) 
+(II) 
+(III) 
