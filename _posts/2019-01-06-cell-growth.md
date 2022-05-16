@@ -1,6 +1,6 @@
 ---
 title: Physiology of Cell Growth
-background: /images/research1_cellgrowth_v2.png
+background: /images/research1_cellgrowth_v3.png
 categories: 
 permalink: /research/cell-growth
 description:

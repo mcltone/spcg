@@ -10,12 +10,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    xml:space="preserve"
    width="1000"
    height="338"
    viewBox="0 0 1000 338.00005"
-   sodipodi:docname="chrom.svg"><metadata
+   sodipodi:docname="research5_chrom.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -1893,10 +1893,10 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.3494401"
-     inkscape:cx="360.02584"
-     inkscape:cy="140.77135"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:cx="225.89614"
+     inkscape:cy="127.7588"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      inkscape:current-layer="g10"
      inkscape:document-rotation="0"
@@ -1924,7 +1924,7 @@
 
 
 <rect
-   style="fill:#ffccaa;fill-opacity:0.29149804;stroke-width:8.26426125;stroke-miterlimit:10;stroke-dasharray:30.57766417, 13.22281729000000006;stroke-opacity:0.46666703"
+   style="fill:#cbcbcb;fill-opacity:0.23137255;stroke-width:8.26426125;stroke-miterlimit:10;stroke-dasharray:30.57766417, 13.22281729000000006;stroke-opacity:0.46666703"
    id="rect880"
    width="800"
    height="270.39999"
@@ -1976,6 +1976,7 @@
      y="-211.40387"
      id="tspan332"
      style="stroke-width:2.83266">R</tspan></text>
+
 <text
    transform="scale(1,-1)"
    style="font-variant:normal;font-weight:normal;font-size:15.9126px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.83266"
@@ -1986,6 +1987,7 @@
      y="-207.1174"
      id="tspan336"
      style="stroke-width:2.83266">m</tspan></text>
+
 <text
    transform="scale(1,-1)"
    style="font-variant:normal;font-weight:normal;font-size:23.869px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.83266"
@@ -1996,6 +1998,7 @@
      y="-338.3067"
      id="tspan350"
      style="stroke-width:2.83266">R</tspan></text>
+
 <text
    transform="scale(1,-1)"
    style="font-variant:normal;font-weight:normal;font-size:15.9126px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.83266"
@@ -2007,6 +2010,7 @@
      sodipodi:role="line"
      id="tspan354"
      style="stroke-width:2.83266">m+s</tspan></text>
+
 <g
    id="g19240"
    transform="matrix(5.6155672,0,0,5.6182212,-4005.3058,719.24088)" /><g
@@ -2524,6 +2528,7 @@
      x="136.77052"
      y="-157.19456"
      id="tspan620593">bridging</tspan></text>
+
 <text
    id="text619358"
    style="font-variant:normal;font-weight:normal;font-size:23.4292px;line-height:0%;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros-Regular;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.30129"
@@ -2535,6 +2540,7 @@
      x="581.88312"
      y="-283.63351"
      id="tspan619356">tension</tspan></text>
+
 <text
    id="text878"
    style="font-variant:normal;font-weight:normal;font-size:23.4292px;line-height:0%;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros-Regular;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d4aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.30129"
@@ -2546,4 +2552,5 @@
      x="421.47375"
      y="-169.76468"
      id="tspan876">stress-pr--opagation</tspan></text>
+
 </g></svg>
