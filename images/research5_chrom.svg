@@ -1893,7 +1893,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.3494401"
-     inkscape:cx="225.89614"
+     inkscape:cx="653.24069"
      inkscape:cy="127.7588"
      inkscape:window-x="72"
      inkscape:window-y="27"
@@ -1977,6 +1977,7 @@
      id="tspan332"
      style="stroke-width:2.83266">R</tspan></text>
 
+
 <text
    transform="scale(1,-1)"
    style="font-variant:normal;font-weight:normal;font-size:15.9126px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.83266"
@@ -1987,6 +1988,7 @@
      y="-207.1174"
      id="tspan336"
      style="stroke-width:2.83266">m</tspan></text>
+
 
 <text
    transform="scale(1,-1)"
@@ -1999,6 +2001,7 @@
      id="tspan350"
      style="stroke-width:2.83266">R</tspan></text>
 
+
 <text
    transform="scale(1,-1)"
    style="font-variant:normal;font-weight:normal;font-size:15.9126px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.83266"
@@ -2010,6 +2013,7 @@
      sodipodi:role="line"
      id="tspan354"
      style="stroke-width:2.83266">m+s</tspan></text>
+
 
 <g
    id="g19240"
@@ -2529,6 +2533,7 @@
      y="-157.19456"
      id="tspan620593">bridging</tspan></text>
 
+
 <text
    id="text619358"
    style="font-variant:normal;font-weight:normal;font-size:23.4292px;line-height:0%;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros-Regular;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.30129"
@@ -2541,16 +2546,18 @@
      y="-283.63351"
      id="tspan619356">tension</tspan></text>
 
+
 <text
    id="text878"
-   style="font-variant:normal;font-weight:normal;font-size:23.4292px;line-height:0%;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros-Regular;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d4aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.30129"
+   style="font-variant:normal;font-weight:normal;font-size:23.42919922px;line-height:0%;font-family:TeXGyreHeros;-inkscape-font-specification:TeXGyreHeros-Regular;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d4aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.30129004"
    transform="scale(1,-1)"
    x="421.47375"
    y="-169.76468"><tspan
      sodipodi:role="line"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4292px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Italic';text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.30129"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.42919922px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Italic';text-align:center;text-anchor:middle;fill:#d4aa00;stroke-width:2.30129004"
      x="421.47375"
      y="-169.76468"
-     id="tspan876">stress-pr--opagation</tspan></text>
+     id="tspan876">stress-propagation</tspan></text>
+
 
 </g></svg>
