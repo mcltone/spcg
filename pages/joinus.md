@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <br>Join Us
-background: /assets/theme/images/LavagnaBack2.jpg
+background: /images/LavagnaBack2.jpg
 permalink: /join-us/
 ---
 
