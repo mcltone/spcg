@@ -21,16 +21,6 @@
   description: >
     Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
     aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
   #cv: spCV.pdf
   email: simone.pompei@ifom.eu
   #scholar: 
@@ -59,7 +49,8 @@
   role: PhD
   image: /images/people_lc.jpg
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).    
+    prova
+    
   #cv: lcCV.pdf
   email: ludovico.calabrese@ifom.eu
   #scholar: 
@@ -115,19 +106,3 @@
   in: https://it.linkedin.com/in/giorgio-tallarico-159614b2
   twitter: GiorgioTallari0
   github: giorgiotallarico
-  
-- name: Quentin Chaboche
-  role: Master's student
-  image: /images/people_qc.jpg 
-  description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).       
-  cv: qcCV.pdf
-  email: quentin.chaboche@ifom.eu
-  #scholar:
-  #researchgate:
-  #orcid:
-  in: https://it.linkedin.com/in/quentin-chaboche-6a65ba1a1/it?trk=people-guest_people_search-card
-  #twitter:
-  #github:
-  
-  

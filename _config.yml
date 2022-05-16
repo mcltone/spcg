@@ -8,9 +8,9 @@ author: SPCG                  # Used for copyright statement in footer
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: # marco.cosentino-lagomarsino@ifom.eu           # Social icon in footer
+email: marco.cosentino-lagomarsino@ifom.eu           # Social icon in footer
 twitter_username: # mcl          # Social icon in footer
-github_username: # mcltone            # Social icon in footer
+github_username: mcltone            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
