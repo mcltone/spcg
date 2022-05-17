@@ -60,7 +60,7 @@
   image: /images/people_lc.jpg
   description: >
     Theoretical Physicist. I like to use minimal models and proof-of-principle arguments to determine the essential conditions that cause a phenomenon. I am fascinated by genetic networks and the motifs/circuits found inside them and how living systems perform functional tasks largely by selecting the right architecture. In my research, I define mathematical models of cell growth and gene expression with three main questions in mind: (i) how do global parameters of biosynthesis vary across growth conditions (ii) what do these trends imply as to what is limiting for growth (iii) whether these trends can help us understand how the behavior of genetic circuits varies across growth conditions.
-  #cv: lcCV.pdf
+  cv: lcCV.pdf
   email: ludovico.calabrese@ifom.eu
   #scholar: 
   #researchgate:
