@@ -7,7 +7,7 @@
 
 i.fa-vibe  {
     content:"";
-    background-image:url('images/universitaInterno.png');
+    background-image:url('images/ifom-responsive-n.png');
     display: inline-block;
     background-position:center;
     background-size:cover;
@@ -17,12 +17,12 @@ i.fa-vibe  {
 
 i.fa-unimi  {
     content:"";
-    background-image:url('https://www.ifom.eu/media/Loghi/ifom-responsive-n.png');
+    background-image:url('images/universitaInterno.png');
     display: inline-block;
     background-position:center;
     background-size:cover;
 }
-        
+        /*!  background-image:url('https://www.ifom.eu/media/Loghi/ifom-responsive-n.png');  */
         /*!   images/universitaInterno.png */
         /*! https://github.com/mcltone/spcg/blob/bd4a8b39683c064b76801bbaa1e12bd1ab4845ff/images/universitaInterno.png */
 
