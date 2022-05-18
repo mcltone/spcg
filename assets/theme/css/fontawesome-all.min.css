@@ -6,7 +6,8 @@
 
 
     i.fa-unimi  {
-        content:url(images/universitaInterno.png);
+     /*!   content:url(images/universitaInterno.png); */
+        content:url(\https://github.com/mcltone/spcg/blob/bd4a8b39683c064b76801bbaa1e12bd1ab4845ff/images/universitaInterno.png);
     } 
 
 
