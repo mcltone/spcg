@@ -7,7 +7,7 @@
 
 i.fa-vibe  {
     content:"";
-    background-image:url(images/ifom-responsive-n.png);
+    background-image:url('https://www.ifom.eu/media/Loghi/ifom-responsive-n.png');
     display: inline-block;
     background-position:center;
     background-size:cover;
