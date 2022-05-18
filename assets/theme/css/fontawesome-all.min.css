@@ -6,11 +6,11 @@
 
 
     i.fa-vibe  {
-        content:url(\https://www.ifom.eu/media/Loghi/ifom-responsive-n.png);
+        content:url(images/ifom-responsive-n.png);
     }   
 }
 
     i.fa-unimi  {
-        content:url(\https://cas.unimi.it/assets-cas/images/universitaInterno.jpg);
-    }   
+        content:url(images/universitaInterno.png);
+    } 
 }
