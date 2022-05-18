@@ -13,13 +13,19 @@ i.fa-vibe  {
     background-size:cover;
 }
       
-    } 
 
 
     i.fa-unimi  {
-     /*!   content:url(images/universitaInterno.png); */
-        content:url(\https://github.com/mcltone/spcg/blob/bd4a8b39683c064b76801bbaa1e12bd1ab4845ff/images/universitaInterno.png);
-    } 
+    content:"";
+    background-image:url('images/universitaInterno.png');
+    display: inline-block;
+    background-position:center;
+    background-size:cover;
+}
+        
+        /*!   images/universitaInterno.png */
+        /*! https://github.com/mcltone/spcg/blob/bd4a8b39683c064b76801bbaa1e12bd1ab4845ff/images/universitaInterno.png */
+
 
 
 
