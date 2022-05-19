@@ -76,26 +76,9 @@
   in: https://it.linkedin.com/in/mattia-corigliano-b05407203  
   twitter: mcorigliano_
   github: Mattia-Corigliano
-  
-   
-- name: Giorgio Tallarico
-  role: Master's student
-  image: /images/people_gt.jpg 
-  description: >
-    Master's student and man of few words..          
-  cv: gtCV.pdf
-  email: giorgio.tallarico@ifom.eu
-  scholar: hl=it&user=opeaOxoAAAAJ
-  #researchgate:
-  orcid: 0000-0002-3925-9699
-  in: https://it.linkedin.com/in/giorgio-tallarico-159614b2
-  twitter: GiorgioTallari0
-  github: giorgiotallarico
-  
-  
-  
-  
-  - name: Ilaria Iuliani
+
+
+- name: Ilaria Iuliani
   role: Post Doc
   image: /images/people_ii.jpg
   description: >
@@ -109,6 +92,21 @@
   twitter: IlariaIuliani
   github: ilaria-iuliani
   
+
+- name: Giorgio Tallarico
+  role: Master's student
+  image: /images/people_gt.jpg 
+  description: >
+    Master's student and man of few words..          
+  cv: gtCV.pdf
+  email: giorgio.tallarico@ifom.eu
+  scholar: hl=it&user=opeaOxoAAAAJ
+  #researchgate:
+  orcid: 0000-0002-3925-9699
+  in: https://it.linkedin.com/in/giorgio-tallarico-159614b2
+  twitter: GiorgioTallari0
+  github: giorgiotallarico
+
   
 - name: Quentin Chaboche
   role: Master's student
@@ -123,5 +121,3 @@
   in: https://it.linkedin.com/in/quentin-chaboche-6a65ba1a1/it?trk=people-guest_people_search-card
   #twitter:
   #github:
-  
-  
