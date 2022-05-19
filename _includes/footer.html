@@ -1,4 +1,18 @@
 <footer>
+ <div class="container">
+  <div class="small mt-2">
+      {% if site.author %}
+        <p>© {{ site.author }}</p>
+      {% endif %}
+      {% if site.data.footer.license %}
+        {{ site.data.footer.license | markdownify }}
+      {% endif %}
+    </div>
+  </div>
+</footer>
+
+ <!--
+
   <div class="container">
     <div class="row">
       <div class="col-lg">
@@ -154,3 +168,4 @@
     });
   </script>
 {% endif %}
+-->
