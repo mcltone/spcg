@@ -78,11 +78,14 @@
   twitter: GiorgioTallari0
   github: giorgiotallarico
   
+  
+  
+  
   - name: Ilaria Iuliani
   role: Post Doc
   image: /images/people_ii.jpg
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    Master University of Turin, PhD Sorbonne University. 
   #cv: iiCV.pdf 
   email: ilaria.iuliani@ifom.eu
   #scholar: 
@@ -97,7 +100,7 @@
   role: Master's student
   image: /images/people_qc.jpg 
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).       
+    Master EPFL. Now PhD student in France.        
   cv: qcCV.pdf
   email: quentin.chaboche@ifom.eu
   #scholar:
