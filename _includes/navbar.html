@@ -1,21 +1,23 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light" id="main-nav">
   <div class="container">
+
     <a class="navbar-brand d-flex align-items-center" href="{{'/' | relative_url }}">
       {% if site.logo %}
         <img src="{{ site.logo | relative_url }}" class="me-2">
       {% endif %}
       {{ site.title }}
     </a>
-    
+
     <!-- LOGO HERE -->
-    
-     <a href="https://www.unimi.it/en"  target="_blank">
-     <img src="images/universitaInternogr.png"  width="93" height="32">
-     </a> 
- 
-      <a href="https://www.ifom.eu/en"  target="_blank">
-      <img src="images/ifom-responsive-ngr.png"  width="84" height="32">
-      </a> 
+    <a href="https://www.unimi.it/en"  target="_blank">
+    <img src="/images/logo_unimi_bianco.jpg" width="87" height="30">
+    </a> 
+    <a target="_blank">
+    <img src="/images/bianco.jpg" width="10" height="30">
+    </a> 
+    <a href="https://www.ifom.eu/en"  target="_blank">
+    <img src="/images/logo_ifom_bianco.jpg" width="66" height="30">
+    </a> 
     
     {% if site.data.navigation %}
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-menu">
@@ -50,5 +52,8 @@
         </ul>
       </div>
     {% endif %}
+
+    
+
   </div>
 </nav>

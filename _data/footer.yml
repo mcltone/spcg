@@ -3,14 +3,14 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-#  - description:
-#    links:
-#    - text: UNIMI
-#      href: http://eng.fisica.unimi.it/ecm/home
-#      new_window: true
-#    - text: IFOM
-#      href: https://www.ifom.eu/en/
-#      new_window: true
+  - description:
+    links:
+    - text: UNIMI
+      href: http://eng.fisica.unimi.it/ecm/home
+      new_window: true
+    - text: IFOM
+      href: https://www.ifom.eu/en/
+      new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       Statistical Physics of Cells and Genomes Lab.
